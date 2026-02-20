@@ -1,2 +1,17 @@
-# PARIS-OLYMPICS-2024--ANALYSIS-
-The Olympics 2024 Power BI Dashboard is an interactive analytics project that converts raw Olympic data into meaningful visual insights on medal distribution, country performance, athlete participation, and sport-wise achievements.
+🏅 OLYMPICS 2024 – Power BI Dashboard
+📌 Project Overview
+
+This project is an interactive Power BI Dashboard analyzing the Olympics 2024 dataset.
+It provides insights into medal distribution, country performance, athlete statistics, and overall trends using data visualization techniques.
+
+The dashboard helps in understanding:
+
+Medal count by country
+
+Sport-wise performance
+
+Gender distribution
+
+Top-performing nations and athletes
+
+Overall Olympic trends
