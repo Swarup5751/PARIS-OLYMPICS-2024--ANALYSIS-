@@ -15,3 +15,29 @@ Gender distribution
 Top-performing nations and athletes
 
 Overall Olympic trends
+
+🎯 Objectives
+
+Analyze Olympic 2024 performance data
+
+Identify top medal-winning countries
+
+Visualize sport-wise medal distribution
+
+📊 Key Dashboard Features
+
+✅ Total Medals (Gold, Silver, Bronze)
+
+✅ Country-wise Medal Analysis
+
+✅ Sport-wise Breakdown
+
+✅ Gender Distribution Insights
+
+✅ Interactive Filters & Slicers
+
+✅ Clean and User-Friendly UI
+
+Compare country performance
+
+Create interactive and dynamic reports
