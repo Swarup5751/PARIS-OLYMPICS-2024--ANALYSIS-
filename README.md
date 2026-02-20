@@ -20,9 +20,13 @@ Overall Olympic trends
 🎯 Objectives
 
 Analyze Olympic 2024 performance data
+
 Identify top medal-winning countries
+
 Visualize sport-wise medal distribution
+
 Compare country performance
+
 Create interactive and dynamic reports
 
 
